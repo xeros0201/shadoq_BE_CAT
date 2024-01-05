@@ -1,0 +1,10 @@
+django
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+pypdf2 
+langchain
+python-dotenv
+openai
+serializers
