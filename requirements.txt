@@ -7,4 +7,5 @@ pypdf2
 langchain
 python-dotenv
 openai
+rest_framework
 serializers
